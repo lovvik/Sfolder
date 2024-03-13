@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SFolder</string>
+    <string name="title_activity_newlog">Newlog</string>
+    <string name="title_activity_newpswd">Newpswd</string>
+    <string name="title_activity_newpwsd.java">Newpwsd.java</string>
+    <string name="title_activity_main2">MainActivity2</string>
+</resources>
