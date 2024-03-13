@@ -12,7 +12,7 @@ Cliquez sur un élément de la liste pour dérouler un menu contextuel. Il vous 
 Vous pouvez changer votre mot de passe grâce au bouton "**Cadenas**"
 
 Une clé de chiffrement est aléatoirement générée à l'installation. Elle n'est pas associée à votre mot de passe.
-L'alogorithme de chiffrement est l'AES-256. Chaque couple de chiffré-déchiffré possède son vecteur d'initialisation.
+L'algorithme de chiffrement est l'AES-256. Chaque couple de chiffré-déchiffré possède son vecteur d'initialisation.
 
 
 
